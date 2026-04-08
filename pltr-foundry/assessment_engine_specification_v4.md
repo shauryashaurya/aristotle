@@ -1,7 +1,7 @@
 # Assessment Engine: Technical Specification
 
 **Platform:** Palantir Foundry (Workshop, Pipeline Builder, Functions, AIP, Ontology)
-**Scope:** Phase 1 build (3-4 days, 2 engineers). Phase 2 extensions documented in Appendix A.
+**Scope:** Phase 1 build PoV, Phase 2 extensions documented in Appendix A.
 
 ---
 
